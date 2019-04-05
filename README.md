@@ -39,8 +39,4 @@ The project represents an alpha version of a spaceship.
 
 ## Changelog
 
-<<<<<<< HEAD
-- Torpedo all fire mode implemented
-=======
  - Fire ALL torpedo now works, Test successful
->>>>>>> branch-B
